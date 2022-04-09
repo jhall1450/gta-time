@@ -6,6 +6,9 @@ function App() {
   return (
     <div className="App">
       <Timer />
+      <footer>
+        <a href="https://github.com/jhall1450/gta-time">Check out the project on GitHub</a>
+      </footer>
     </div>
   );
 }
