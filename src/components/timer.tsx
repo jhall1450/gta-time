@@ -17,11 +17,11 @@ const Timer = () => {
   return (
     <>
     <h3>How much time has passed in GTA Online since release?</h3>
-    <p>Years in game: {Math.floor(yearsInGame)}</p>
-    <p>Months in game: {Math.floor(monthsInGame)}</p>
-    <p>Days in game: {Math.floor(daysInGame)}</p>
-    <p>Hours in game: {Math.floor(hoursInGame)}</p>
-    <p>Minutes in game: {Math.floor(minutesInGame)}</p>
+    <p>Years: {Math.floor(yearsInGame)}</p>
+    <p>Months: {Math.floor(monthsInGame)}</p>
+    <p>Days: {Math.floor(daysInGame)}</p>
+    <p>Hours: {Math.floor(hoursInGame)}</p>
+    <p>Minutes: {Math.floor(minutesInGame)}</p>
     </>
   )
 }
