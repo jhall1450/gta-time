@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gta-time/static/css/main.073c9b0a.css",
-    "main.js": "/gta-time/static/js/main.a56f1823.js",
+    "main.css": "/gta-time/static/css/main.b1ab878d.css",
+    "main.js": "/gta-time/static/js/main.874e52ed.js",
     "static/js/787.fb61bd6e.chunk.js": "/gta-time/static/js/787.fb61bd6e.chunk.js",
     "index.html": "/gta-time/index.html",
-    "main.073c9b0a.css.map": "/gta-time/static/css/main.073c9b0a.css.map",
-    "main.a56f1823.js.map": "/gta-time/static/js/main.a56f1823.js.map",
+    "main.b1ab878d.css.map": "/gta-time/static/css/main.b1ab878d.css.map",
+    "main.874e52ed.js.map": "/gta-time/static/js/main.874e52ed.js.map",
     "787.fb61bd6e.chunk.js.map": "/gta-time/static/js/787.fb61bd6e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a56f1823.js"
+    "static/css/main.b1ab878d.css",
+    "static/js/main.874e52ed.js"
   ]
 }
